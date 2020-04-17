@@ -1,0 +1,19 @@
+{
+  "name": "openbullet-apijs",
+  "version": "1.0.0",
+  "description": "Openbullet-api written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choempie/openbullet-apiJS.git"
+  },
+  "author": "Choempie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Choempie/openbullet-apiJS/issues"
+  },
+  "homepage": "https://github.com/Choempie/openbullet-apiJS#readme"
+}
